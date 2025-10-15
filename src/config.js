@@ -1,0 +1,1 @@
+export const STREAMLIT_URL = "http://172.19.132.107:8501/";
